@@ -1,4 +1,4 @@
-# Unstoppable Wallet
+# Wallet-Browser-ios
 
 We dream of a world… A world where private property is untouchable and market access is unconditional.
 
@@ -16,7 +16,7 @@ More at [https://unstoppable.money](https://unstoppable.money)
 
 ## Installation
 
-1. `git clone git@github.com:horizontalsystems/unstoppable-wallet-ios.git`
+1. `git clone git@github.com:horizontalsystems/Browser-wallet-ios.git`
 
 2. You need to have `Development.xcconfig` file for Debug configuration and `Production.xcconfig` file for Release in `UnstoppableWallet/UnstoppableWallet/Configuration`.
 You can use sample configurations in `.template.xcconfig` files.
