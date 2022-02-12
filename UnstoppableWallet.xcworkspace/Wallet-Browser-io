@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:BrowserWallet-io/BroqserWallet-io.xcodeproj">
+      location = "group:BrowserWallet-io/BrowserWallet-io.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
