@@ -43,4 +43,5 @@ $ brew install sourcery
 
 This wallet is open source and available under the terms of the MIT License.
 https://github.com/P7-33/SWAPBROWSER.COM.wiki.git
+https://github.com/P7-33/Wallet-Browser-ios-.wiki.git
 wonderfullcash@gmail.com
