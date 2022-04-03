@@ -1,4 +1,4 @@
-# Wallet-Browser-ios
+# Wallet Matrix.ios
 
 We dream of a world… A world where private property is untouchable and market access is unconditional.
 
@@ -14,12 +14,10 @@ Such approach enables the wallet to operate anywhere and remain censorship-resis
 
 ## Installation
 
-1. `git clone git@github.com:horizontalsystems/Browser-wallet-ios.git`
-
-2. You need to have `Development.xcconfig` file for Debug configuration and `Production.xcconfig` file for Release in `UnstoppableWallet/UnstoppableWallet/Configuration`.
+1. You need to have `Development.xcconfig` file for Debug configuration and `Production.xcconfig` file for Release in `UnstoppableWallet/UnstoppableWallet/Configuration`.
 You can use sample configurations in `.template.xcconfig` files.
 
-3. Install Zcash library dependencies
+2. Install Zcash library dependencies
 
 ```
 $ curl https://sh.rustup.rs -sSf | sh
@@ -42,6 +40,5 @@ $ brew install sourcery
 ## License
 
 This wallet is open source and available under the terms of the MIT License.
-https://github.com/P7-33/SWAPBROWSER.COM.wiki.git
-https://github.com/P7-33/Wallet-Browser-ios-.wiki.git
+https://github.com/P7-33/WWW.MATRIX-BLOCKCHAIN.EXCHANGE.io.wiki.git
 wonderfullcash@gmail.com
